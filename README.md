@@ -1,3 +1,4 @@
-# High-Note
+# About
+___
 
-from the rezabranch
+High note is a website
